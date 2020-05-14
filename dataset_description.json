@@ -15,5 +15,6 @@
         "Stefano Anzellotti",
         "Liane Young"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds002793.v1.0.0"
+    "DatasetDOI": "10.18112/openneuro.ds002793.v1.0.0",
+    "Acknowledgements": "We would like to thank Emma Alai, Arturo Balaguer, Catherine Kim, Mariel Kronitz, and Mookie Manalili for assistance with data collection."
 }
