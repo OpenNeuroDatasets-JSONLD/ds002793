@@ -4,7 +4,9 @@
     "Acknowledgments": "We would like to thank Catherine Kim, Arturo Balaguer, Emma Alai, Mariel Kronitz, and Mookie Manalili for assistance with data collection.",
     "HowToAcknowledge": "",
     "Funding": [
-        "JTF, NSF"
+        "JTF",
+        "NSF",
+        "NIH"
     ],
     "BIDSVersion": "1.2.2",
     "License": "CC0",
